@@ -1,6 +1,4 @@
-# mern_HeroDB
-
-mern_HeroDB - MERN Fullstack testing app. 
+# mern_HeroDB - MERN Fullstack testing app
 
 Created a MERN Fullstack app using React, Node.js, Express, and MongoDB.
 
