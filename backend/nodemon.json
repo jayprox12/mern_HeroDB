@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DB_USER": "{add db username here}",
+        "DB_PASSWORD": "{add db password here}",
+        "DB_NAME": "{add db name here}"
+    }
+}
