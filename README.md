@@ -4,7 +4,8 @@ Created a MERN Fullstack app using React, Node.js, Express, and MongoDB.
 
 Before we begin, you will need to have the following installed: Node.js. (Created this app by following a tutorial from Academind in the Udemy course: React, NodeJS, Express & MongoDB - The MERN Fullstack Guide)
 
-*Express is a lightweight node.js web application framework. It provides the basic HTTP infrastructure that makes it easy to create REST APIs.
+This is an on-going project and will contnue to grow as additional features will be added gradually. Main purpose of this app is to be a test app to use for automation testing frameworks.
+
 
 Installing Node.js
 
