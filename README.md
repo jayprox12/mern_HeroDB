@@ -7,19 +7,19 @@ Before we begin, you will need to have the following installed: Node.js. (Create
 This is an on-going project and will contnue to grow as additional features will be added gradually. Main purpose of this app is to be a test app to use for automation testing frameworks.
 
 
-**Installing Node.js**
+###Installing Node.js
 
 Go to http://nodejs.org, and click the Install button. Run the installer that you just downloaded.
 When the installer completes, a message indicates that Node was installed at /usr/local/bin/node and npm was installed at /usr/local/bin/npm.
 At this point node.js is ready to use.
 
 
-**Setting up MongoDB Atlas**
+###Setting up MongoDB Atlas
 
 To set up Mongodb Atlas, refer to https://www.mongodb.com/docs/atlas/getting-started/
 
 
-**Starting the app**
+###Starting the app
 
 Pull or download the files.
 
@@ -36,6 +36,6 @@ You can start entering data into the HeroDB on the front-end side. To get starte
 
 
 
-**Delete Database (To have a clean database)**
+###Delete Database (To have a clean database)
 
   To delete a database in mongo, refer to: https://www.mongodb.com/docs/compass/current/databases/?_ga=2.119526025.1638789121.1655271305-691262631.1655271304#click-the-trash-can-icon-for-the-database
